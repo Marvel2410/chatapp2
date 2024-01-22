@@ -8,8 +8,6 @@ ChatApp2 is a cross-platform mobile chat application built using React Native an
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Environment Setup](#environment-setup)
-* [Screenshots](#screenshots)
-* [Live Demo](#live-demo)
 * [Reflection](#reflection)
 
 ### Objective
@@ -44,35 +42,16 @@ The primary goal of this project was to create a feature-rich chat app for mobil
 ### Environment Setup
 * Node.js Installation:
     - Install Node.js on your device.
-
 * Expo Installation:
     - Run npm install -g expo-cli to install Expo globally.
-
 * Expo Account:
     - Sign up for an Expo account to enable running the app on your device.
-
 * Repository Setup:
     - Clone this repository and navigate to the project folder, then run npm install.
-
-Firebase Configuration:
-
-Sign in to Google Firebase.
-Create a project with Firestore Database.
-Update Firebase configuration in App.js.
-Download Android Studio (Windows) or XCode (Mac).
-Running the App:
-Run expo start in the terminal and follow instructions to access the app via iOS Simulator/Android Emulator.
-
-Screenshots
-Insert relevant screenshots showcasing different aspects of the app.
-
-Live Demo (Optional)
-Provide a link to the live hosted version or include additional screenshots/recordings.
-
-Reflection
-Include reflections on your project, answering questions such as:
-
-Your role in the project and faced challenges.
-Decisions made and their consequences.
-What you would do differently if given the chance.
-Lessons learned during the project.
+* Firebase Configuration:
+    - Sign in to Google Firebase.
+    - Create a project with Firestore Database.
+    - Update Firebase configuration in App.js.
+    - Download Android Studio (Windows) or XCode (Mac).
+    - Running the App:
+    - Run expo start in the terminal and follow instructions to access the app via iOS Simulator/Android Emulator.
