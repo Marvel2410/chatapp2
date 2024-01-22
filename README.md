@@ -67,8 +67,9 @@ The primary goal of this project was to create a feature-rich chat app for mobil
 
  ### Screenshots
 
+<div style="display:flex; justify-content:space-between;">
  <img width="220" alt="Screenshot 1 from app" src="https://github.com/Marvel2410/chatapp2/blob/main/images/Chat%20App%201.png">
   <img width="220" alt="Screenshot 1 from app" src="https://github.com/Marvel2410/chatapp2/blob/main/images/Chat%20App%202.png">
    <img width="220" alt="Screenshot 1 from app" src="https://github.com/Marvel2410/chatapp2/blob/main/images/Chat%20App%203.png">
     <img width="220" alt="Screenshot 1 from app" src="https://github.com/Marvel2410/chatapp2/blob/main/images/Chat%20App%204.png">
-
+</div>
