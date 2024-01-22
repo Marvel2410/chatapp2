@@ -8,6 +8,7 @@ ChatApp2 is a cross-platform mobile chat application built using React Native an
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Environment Setup](#environment-setup)
+* [Screenshots](#screenshots)
 
 
 ### Objective
@@ -61,5 +62,13 @@ The primary goal of this project was to create a feature-rich chat app for mobil
     - Download Android Studio (Windows) or XCode (Mac).
     - Running the App:
     - Run expo start in the terminal and follow instructions to access the app via iOS Simulator/Android Emulator.
-    
+
  [Back](#table-of-contents)
+
+ ### Screenshots
+
+ <img width="220" alt="Screenshot 1 from app" src="https://github.com/Marvel2410/chatapp2/blob/main/images/Chat%20App%201.png">
+  <img width="220" alt="Screenshot 1 from app" src="https://github.com/Marvel2410/chatapp2/blob/main/images/Chat%20App%202.png">
+   <img width="220" alt="Screenshot 1 from app" src="https://github.com/Marvel2410/chatapp2/blob/main/images/Chat%20App%203.png">
+    <img width="220" alt="Screenshot 1 from app" src="https://github.com/Marvel2410/chatapp2/blob/main/images/Chat%20App%204.png">
+
