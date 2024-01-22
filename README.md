@@ -8,10 +8,11 @@ ChatApp2 is a cross-platform mobile chat application built using React Native an
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Environment Setup](#environment-setup)
-* [Reflection](#reflection)
+
 
 ### Objective
 The primary goal of this project was to create a feature-rich chat app for mobile devices. Key objectives include real-time messaging, media sharing, offline viewing, and compatibility with screen readers for users with visual impairments.
+
 [Go to Table of Contents](#table-of-contents)
 
 ### Features
